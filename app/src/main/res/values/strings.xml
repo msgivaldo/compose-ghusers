@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">compose-github-repos</string>
+    <string name="repos">See user\'s repos</string>
+    <string name="navigate_up">navigate up</string>
+</resources>
